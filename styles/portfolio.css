@@ -1,0 +1,15 @@
+
+
+
+
+/* nav styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.font{
+    font-family: 'Inter', sans-serif;
+    font-size: 34px;
+}
