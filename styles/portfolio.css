@@ -1,15 +1,32 @@
 
 
 
+/* shared styles */
+.btn-primary{
+    background-color: #4E47FF;
+}
+
+.btn-primary{
+    color: white;
+    padding: 13px 32px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    border: none;
+}
+
 
 /* nav styles */
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin: 0 150px;
 }
 
 .font{
     font-family: 'Inter', sans-serif;
     font-size: 34px;
+    color: #4E47FF;
 }
