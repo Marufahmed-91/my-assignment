@@ -103,6 +103,7 @@ nav{
 }
 .section-title{
     margin-top: -50px;
+    font-family: 'Inter', sans-serif;
 }
 .about-items{
     display: flex;
@@ -120,7 +121,7 @@ nav{
 .touch-title{
     font-size: 40px;
     font-weight: bold;
-    font-family: "Raleway" sans-serif;
+    font-family: "Inter" sans-serif;
     margin: 70px;
 }
 .touch{
