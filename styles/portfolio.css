@@ -5,7 +5,7 @@
 
 .first-header{
     margin: 0 160px 116px 140px;
-    background-image: url('../Hero-bg.png');
+    background-image: url('../hero-bg.png');
 }
 
 
@@ -85,9 +85,10 @@ nav{
     display: flex;
     justify-content: space-around;
     text-align: justify;
+    margin-top: 250px;
 }
 .action-pic{
-    width: 300px; height: 300px;
+    width: 250px; height: 200px;
     border-radius: 48px;
 }
 
