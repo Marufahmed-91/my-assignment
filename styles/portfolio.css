@@ -1,6 +1,14 @@
 
 
 
+
+
+.first-header{
+    margin: 0 160px 116px 140px;
+    background-image: url('../Hero-bg.png');
+}
+
+
 /* shared styles */
 .btn-primary{
     background-color: #4E47FF;
@@ -14,6 +22,7 @@
     font-family: 'Inter', sans-serif;
     font-weight: 600;
     border: none;
+    font-style: normal;
 }
 
 
@@ -22,7 +31,6 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 0 150px;
 }
 
 .font{
@@ -30,3 +38,60 @@ nav{
     font-size: 34px;
     color: #4E47FF;
 }
+.fonts{
+    font-family: "Raleway" sans-serif;
+    font-weight: bold;
+    font-size: 65px;
+}
+.banner{
+    justify-content: space-around;
+    text-align: center;
+    margin: 158px 107.5px 0 127.5px;
+}
+.btn-secondary{
+    color: white;
+    padding: 13px 32px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    border: none;
+    font-style: normal;
+    background-color: #4E47FF;
+    margin-top: 37px;
+}
+.action{
+    font-family: "Raleway" sans-serif;
+    font-weight: bold;
+    font-size: 42px;
+}
+.action-2{
+    font-family: "Raleway" sans-serif;
+    font-weight: regular;
+    font-size: 24px;
+}
+.btn-third{
+     color: white;
+    padding: 13px 32px;
+    border-radius: 8px;
+    font-size: 16px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 600;
+    border: none;
+    font-style: normal;
+    background-color: #4E47FF;
+}
+.main-action{
+    display: flex;
+    justify-content: space-around;
+    text-align: justify;
+}
+.action-pic{
+    width: 300px; height: 300px;
+    border-radius: 48px;
+}
+
+
+
+
+
